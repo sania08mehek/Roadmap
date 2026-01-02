@@ -370,7 +370,7 @@ export default function RoadmapTracker() {
         </div>
 
         <div className="mt-8 text-center text-slate-400 text-sm pb-8">
-          © 2026 Irfan IR || Built with CURIOSITY
+          © 2026 Sania Mehek|| Built with PASSION
         </div>
       </div>
     </div>
